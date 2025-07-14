@@ -60,30 +60,6 @@ npm start
 
 Open your browser and navigate to http://localhost:5173 (or the port indicated in your terminal).
 
-# Project Structure
-aishwarya-portfolio/
-├── public/
-│   ├── aishwarya_resume.pdf  # Your resume PDF file
-│   ├── profile.jpg           # Your hero image
-│   ├── project1.png          # Project image for Airbnb
-│   ├── project2.png          # Project image for Hospital Optimization
-│   ├── ...                   # Other project images (project3.png to project8.png)
-│   └── index.html            # Main HTML file
-├── src/
-│   ├── App.js                # Main application component and routing setup
-│   ├── index.css             # Global CSS (e.g., for body background)
-│   ├── index.js              # React entry point
-│   ├── components/
-│   │   └── Navbar.jsx        # Navigation bar component
-│   ├── pages/
-│   │   ├── Home.jsx          # Home page component
-│   │   ├── About.jsx         # About Me page component
-│   │   ├── Projects.jsx      # Projects page component
-│   │   ├── Skills.jsx        # Skills page component
-│   │   └── Resume.jsx        # Resume page component
-│   └── tailwind.config.js    # Tailwind CSS configuration
-├── package.json              # Project dependencies and scripts
-└── README.md                 # This file
 
 # Customization
 **Content:** Update the text content in Home.jsx, About.jsx, Projects.jsx, Skills.jsx, and Resume.jsx to reflect your latest information.
