@@ -68,7 +68,7 @@ Open your browser and navigate to http://localhost:5173 (or the port indicated i
 
 **Resume PDF:** Place your updated resume PDF as aishwarya_resume.pdf in the public/ folder.
 
-**GitHub Username:** If your GitHub username changes, update it in Projects.jsx (https://api.github.com/users/Aishwaryajohn97/repos).
+**GitHub Username:** If your GitHub username changes, update it in Projects.jsx (https://github.com/Aishwaryajohn97?tab=repositories).
 
 **Colors/Theme:** Modify tailwind.config.js or directly edit Tailwind classes in components to adjust the color scheme.
 
