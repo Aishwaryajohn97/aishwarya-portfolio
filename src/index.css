@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles if needed */
+body {
+  @apply bg-white text-gray-900 antialiased;
+  font-family: 'Inter', sans-serif;
+}
+
+a {
+  @apply transition-colors duration-200;
+}
+
+h1, h2, h3, h4 {
+  @apply text-gray-800 font-semibold;
+}
