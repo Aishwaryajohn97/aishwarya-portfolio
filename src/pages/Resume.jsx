@@ -16,7 +16,7 @@ const Resume = () => {
             href="/aishwarya_resume.pdf" // Path to your resume PDF file
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-black text-white px-8 py-4 rounded-lg shadow-lg hover:bg-gray transition duration-300 ease-in-out transform hover:scale-105 font-semibold text-xl" // Changed bg-black to bg-blue-600
+            className="bg-[#001f3f] text-white px-8 py-4 rounded-lg shadow-lg hover:bg-gray transition duration-300 ease-in-out transform hover:scale-105 font-semibold text-xl" // Changed bg-black to bg-blue-600
           >
             View Resume
           </a>
@@ -25,7 +25,7 @@ const Resume = () => {
           <a
             href="/aishwarya_resume.pdf" // Path to your resume PDF file
             download="Aishwarya_John_Pole_Resume.pdf" // Suggested filename for download
-            className="border border-black text-black px-8 py-4 rounded-lg shadow-lg hover:bg-gray hover:text-black transition duration-300 ease-in-out transform hover:scale-105 font-semibold text-xl" // Changed border-black to border-blue-600 and text-black to text-blue-600
+            className="border border-blue-900 text-blue-900 px-8 py-4 rounded-lg shadow-lg hover:bg-gray hover:text-black transition duration-300 ease-in-out transform hover:scale-105 font-semibold text-xl" // Changed border-black to border-blue-600 and text-black to text-blue-600
           >
             Download Resume
           </a>

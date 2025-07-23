@@ -4,7 +4,7 @@ import { FaLinkedin, FaEnvelope, FaPhone, FaWhatsapp } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="bg-black text-white py-6 mt-auto">
+    <footer className="bg-[#001f3f] text-white py-6 mt-auto">
       <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center">
         <p className="mb-4 md:mb-0">
           &copy; {new Date().getFullYear()} Aishwarya John Pole. All rights reserved.

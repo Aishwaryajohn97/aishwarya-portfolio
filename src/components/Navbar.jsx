@@ -17,7 +17,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="w-full bg-black shadow-md py-4 fixed top-0 z-50">
+    <nav className="w-full bg-[#001f3f] shadow-md py-4 fixed top-0 z-50">
       <div className="container mx-auto px-6 flex justify-between items-center">
         {/* Logo/Site Title - Always visible */}
         <h1>
