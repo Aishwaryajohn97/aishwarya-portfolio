@@ -20,7 +20,12 @@ const projectMetadata = {
     description:
       "Developed a responsive and professional business website for VICZ Import & Export Ltd using React.js and Create React App. The site features key company information, services, product listings, and a contact form. Designed to run offline on a single laptop as per client requirements, ensuring easy local deployment and maintenance without the need for hosting. The project emphasizes clean, reusable components and a mobile-friendly layout for optimal user experience across devices.",
   },
-  
+      "solid-profile-viewer": {
+    image: "/project4.png",
+    title: "Solid Profile Viewer",
+    description:
+      "Solid WebID profile viewer: fetches and displays profile info and contacts with responsive UI/UX. Built with React, Solid, and CSS for a modern, user-friendly experience. Utilizes Solid's decentralized data model to access and display user profiles seamlessly.",
+  },
   // You can add more entries here for other projects, e.g.:
   // "my-portfolio-site": { image: "/portfolio.png", title: "Personal Portfolio", description: "Developed a responsive, modern portfolio website using React and Tailwind CSS." },
 };
